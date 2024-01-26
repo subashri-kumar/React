@@ -1,0 +1,10 @@
+.reducer{
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+    height: 30px;
+    width:auto;
+    gap:15px;
+    padding: 25px;
+    
+}

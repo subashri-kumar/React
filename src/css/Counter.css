@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 150px;
+    width:auto;
+    
+}
+.counter-box{
+    background-color:purple;
+    color:black;
+    text-decoration: underline;
+}
+.button-container{
+    display: flex;
+    gap:15px;
+    padding: 25px;
+    
+}
